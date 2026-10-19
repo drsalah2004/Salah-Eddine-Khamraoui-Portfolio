@@ -24,7 +24,5 @@ A Python-based project for automating and monitoring Cisco network devices in a 
 
 ## Contact
 - Email: seksalaheddine2004@gmail.com
-- LinkedIn: Add your LinkedIn profile URL here
-
-## Live Portfolio
-Add your GitHub Pages URL here.
+- LinkedIn: https://linkedin.com/in/salah-eddine-khamraoui
+- +212777980394
